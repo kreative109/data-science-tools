@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "id": "605491e7-32cf-4e1c-b0dc-91a117a6c3f3",
+      "cell_type": "code",
+      "source": "Data Science Tools and Ecosystem",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "18c23f89-cda2-416a-93a5-7a3d7c19edb9",
+      "cell_type": "code",
+      "source": "In this notebook, Data Science Tools and Ecosystem are summarized.",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "6fdfd52d-653d-414c-af3d-fa39c01569d7",
+      "cell_type": "code",
+      "source": "Some of the popular languages that Data Scientists use are:\n\n1. Python  \n2. R  \n3. SQL  \n4. Julia  \n5. Scala",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "1d2be4f6-8526-499d-ac2b-bd25196d1f5a",
+      "cell_type": "code",
+      "source": "Some of the commonly used libraries used by Data Scientists include:\n\n1. NumPy  \n2. Pandas  \n3. Matplotlib  \n4. Scikit-learn  \n5. TensorFlow",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "37c914e3-d67a-4891-b098-3b5a6b0417cc",
+      "cell_type": "code",
+      "source": "Exercise 6 - Create a markdown cell with a table of Data Science tools\n\nCreate a single column table in this cell with the first row containing the header Data Science Tools. The subsequent three rows in the table should indicate three development environment open source tools used in data science.\n\nTake a screenshot of the markdown cell and name it as 6-dstools.png\n\nHint: Refer to Lab: Using Markdowns in Jupyter Notebooks to create a table.\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "9000786d-2de9-43a2-a6a1-75f97da2b169",
+      "cell_type": "code",
+      "source": "### Below are a few examples of evaluating arithmetic expressions in Python.",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "65149d7d-7c2a-4177-ac6c-f193d050a2b6",
+      "cell_type": "code",
+      "source": "# This is a simple arithmetic expression to multiply then add integers\n(3 * 4) + 5",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "270a5983-dd2d-4b17-b3fc-84a653196d25",
+      "cell_type": "code",
+      "source": "# This will convert 200 minutes to hours by dividing by 60\n200 / 60",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "80ca7e1e-0130-423f-ab3f-5a70b8e84303",
+      "cell_type": "code",
+      "source": "Exercise 10 - Insert a markdown cell to list Objectives\n\nBelow the introduction cell created in Exercise 3, insert a new markdown cell to list the objectives that this notebook covered (i.e. some of the key takeaways from the course). In this new cell start with an introductory line titled: Objectives: in bold font. Then using an unordered list (bullets) indicate 3 to 5 items covered in this notebook, such as List popular languages for Data Science.\n\nTake a screenshot of the markdown cell and name it as 10-objectives.png\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "d6fb3d22-2ed8-4409-9465-2b9ca9b9df4f",
+      "cell_type": "code",
+      "source": "## Author\n\nAndrew Ramirez",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
